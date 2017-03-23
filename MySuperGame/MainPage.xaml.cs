@@ -89,7 +89,6 @@ namespace MySuperGame
             mediaElement.AutoPlay = false;
             mediaElement.SetSource(stream, file.ContentType);
 
-
         }
 
         private void CoreWindow_PointerPressed(Windows.UI.Core.CoreWindow sender, Windows.UI.Core.PointerEventArgs args)
